@@ -1,0 +1,58 @@
+- Registration with OTP only for Admin
+- Failed Login attempted send to Both number
+- OTP valid for 30 seconds
+- 
+
+
+Process
+==============================================
+- Create customer (1)
+- company logo
+- customer photo
+- GST number
+- ref by
+- machine model
+- total machine
+- Installed machine number
+
+- Create machine (2)
+	List of Machine
+
+- Modal type (3)
+	- Master
+		- Worker account
+		- Assign worker
+		- Machine name
+		- Bonus
+		- Range color
+		- Group
+		- Billing cost Calculation
+		- Sample cost calculation
+		- Setting - Machine three dots
+	- Live
+		- Machine Number
+		- Machine Name
+		- Shift
+		- Head
+		- Worker name
+		- Stitches
+		- TB
+		- MAX RPM
+		- Live RPM
+		- Stop time
+		- Last stop time
+		- Change worker
+		- Buzzer
+		- Settings
+		- Last sync time
+		- Camera settings - extra
+- Report (4)
+	- Production
+		- 12 hr
+		- 6 Hr
+		- 3 Hr
+		- 5 Min
+	- Salary + Bonus
+	- Avg production report
+	- Total production
+	- Machine Monitoring report
